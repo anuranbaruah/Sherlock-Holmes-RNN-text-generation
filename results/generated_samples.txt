@@ -1,0 +1,140 @@
+====================================================================================================
+SEED 1: i had called upon my friend sherlock holmes one day in the autumn of last year and found him
+====================================================================================================
+
+--- temperature = 0.2 ---
+[SimpleRNN] ... . i had no doubt that i have heard it. i have heard the sound of the city, and the whole of the league, and i have no doubt that i had heard the same man. i have heard the door of the red headed men
+[BiRNN] ... . i have a quiet. i have been given. i have been in the corner of the sort. i have no doubt that i have already to the police of the matter. i have no doubt that i have only a man who is so much
+[LSTM] ... . i have not been able to be a little. it is a very little man, said holmes. i have not been able to be a little man. i have no doubt that you are not. i have not been able to be a little
+[GRU] ... in the way. i have heard that i have heard that i had heard the facts of the matter, and the other is not a man who is a very serious man. i am not a very much man, and i have no doubt that i
+
+--- temperature = 0.5 ---
+[SimpleRNN] ... . i had no doubt that i had been a very quiet, and his father was a very quick, and as it was so, and what did you do not then? i asked. i have no doubt that i had heard the same policy of
+[BiRNN] ... . i suppose that the man is no doubt for the geese of the case, the old case of the fire, and i have had a very gentle little matter. i have known the easily. i am it as far to have been just so.
+[LSTM] ... . i shall not be no doubt. i have no doubt that it is not much a very small man. it is a very a small man, and we have a doubt that he was a few thing, and the thing of the least came to
+[GRU] ... in a long ball. i heard that he was a small deal of the light, and the window was a man of the date, but this was a salesman, and he had had been a professional in the first, and that he was not a
+
+--- temperature = 1.0 ---
+[SimpleRNN] ... out with me, and by the letters corridor that it is a question of his silk. its whimsical so jumped as of inspector cases, maid. his arms again, then, as it by the gigantic way. who mumbled this case? i am no
+[BiRNN] ... a glance train at the street. when is the corner of onto such repairs, the old case can have been problem, said holmes with a room of crime anything to me upon the bridge of this is a sallow as yours a fine light i think,
+[LSTM] ... . the little stalls in no husband, i asked. quite dissatisfied that you would aid you should you! pretty great happiness i should a fly of directors to my eyford. there would have been enough to morrow, i presume. yes, said does,
+[GRU] ... in a violent ball fashion. this is he, mr. hatherley, and you felt once that, said holmes turner. the date when i may add it or two like trifles tallow he before the interest which may be more to hearts. but this is
+
+--- temperature = 1.5 ---
+[SimpleRNN] ... out with roylott's secure shirt open lysander that admiration watched him them, the scotland place have attain half whimsical so jumped as of inspector cases, maid what did do again, then? can here by sat in sake. who mumbled this absolute though broke wax st
+[BiRNN] ... under in train proof, and everyone when is impatiently none of onto such repairs, the old bird an agent open problem false points without with a abutted of crime anything table was waiting. bridge easily vain signature of spread the evening of fine years either think she
+[LSTM] ... examined about me during in no husband. i failed with quite dissatisfied that you would aid entertaining perched end! pretty symptoms me clever than a fly of directors the bird of return. means conclusions we are compelled considerably for morcar; which spaulding branches had does been
+[GRU] ... from ways knees into the too cloth white off, but and about the time you felt once trifles, suspicious tried turner. the date when it may represented it salesman it like trifles tallow solution before wander ourselves which may purpose hanover present at crime, with room
+
+====================================================================================================
+SEED 2: it was a cold and stormy night, and the rain beat against the windows as we sat by the fire
+====================================================================================================
+
+--- temperature = 0.2 ---
+[SimpleRNN] ... , and the whole man who had been been to the room. i have heard the same of the sort. i have heard the door of the sort. i have heard it. i have heard the last man. i have heard the door of the
+[BiRNN] ... , and the latter of the case of the sort, and i have had been a man who has been in the matter. it was not quite so. i think that i have already to the police. i think that i have been a great matter
+[LSTM] ... . i have heard that the other of the time, said holmes, and i have not seen it. i am sure that the police had been a little man. i have been seen to the matter. i have no doubt that i have been able
+[GRU] ... , and the other was a man who was a man and a man who was a very cold, and the ominous of the red headed headed men, but i have heard that i had heard the door of the sort. i had heard the door of
+
+--- temperature = 0.5 ---
+[SimpleRNN] ... , and upon the door of the city, and the water of the stranger of the gale, and the door is always to be a man ago to me, and i must go. i have heard of the pavement, and it is quite well that
+[BiRNN] ... of the marks, and the case of the sort. there was no doubt that i had been so at the same. i should do you see that there are the carriage, said holmes. i have no at the matter. it is the little.
+[LSTM] ... . i have heard that the other of the time, and i could not make you. it is a very. the scene of the hair. you have no doubt, said holmes; i had not been able to be a little, and you are
+[GRU] ... , and my father was a woman in the city. i had heard the door of the passage, and i wrote it, i am not sure that i have heard it. i shall recall the first to do. i have heard the very nature of
+
+--- temperature = 1.0 ---
+[SimpleRNN] ... down and upon the fact of mr. hosmer angel. the bell hung rather when i sat cap under a nervous monograph dog and an rack by a professional forward to dr. young st. simon as i tried, with his natural time his front which was
+[BiRNN] ... from the marks in the effect, like it, and there lodge glanced frightened of striking, fully he was the sneer brown slow gentleman with up in his stoke, respectable england with the stair. in search train at the hotel where i owe the case.
+[LSTM] ... and have thrown with us does his tall always given, and i could not make engaged from an lens, but if the scene was keeper, and might stop ease. i thought that this doctor had the full doctor met the study. i suppose that i
+[GRU] ... to. my police has heard to the star side of the others are often. never wander to, mrs. wrote? photograph. you can come and off on this o'clock. here is a battered man at this rooms. i see the very nature.
+
+--- temperature = 1.5 ---
+[SimpleRNN] ... hubbub and upon the lucky round. earth you must pretty the bell hung stranger when threatens leading cap under america noise. mccarthy about an rack by 1890 repeated forward to dr indicate young sneer moments among as having tried frame burning make before it made concluded which from
+[BiRNN] ... blinds the marks in across of his fortunes that the green connected lodge glanced twenty of striking clear hatherley offices at the signal that slow gentleman colonel up up his stoke, record england with beaten come wheels in search train at the false where up me through april.
+[LSTM] ... and appointment to articles us usually his style always don't, rising over on telling once engaged from item it on two. listen. the keeper star are might stop ease. i thought one; doctor had the full doctor met between two figures, lichen gipsies on
+[GRU] ... dia. my tips mistress yet gaze found star my life alice than are up. never cool cold, mrs. wrote dress, stands paying patience using and relief on disregarding which could became london and actually some at represented rooms before conversation closing three very nature admirably
+
+====================================================================================================
+SEED 3: holmes took the letter from her hand and read it carefully. then he turned to me and said
+====================================================================================================
+
+--- temperature = 0.2 ---
+[SimpleRNN] ... . it is a very serious of the matter. i have heard the same. i have heard the same. i have no doubt that i had heard the stone of the city. i have heard of the time, and i have heard the door,
+[BiRNN] ... he. i do not think that i have been a very pretty. i have a very pretty. i have no doubt that i have no doubt that i am afraid that i have already. i have no doubt that i have no doubt that i should
+[LSTM] ... that i have not been able to be the little man, and i have been able to be a little man. i have not been able to be a little. i have a very very little man. i have not been able to be. i
+[GRU] ... he, as i have heard the door of the matter. i have heard the other of the sort. i have heard of the matter, said holmes, laughing. i have no doubt that i shall take my friend. i shall go to you.
+
+--- temperature = 0.5 ---
+[SimpleRNN] ... . it is a very busy, and then, watson, and i have already the door, and the effect was so much to be the matter. i shall be the cause. i had no doubt that the facts are an orphan. i shall have
+[BiRNN] ... he. i do it. it was a long of the case, and the whole of the floor, and the windows of the yard, this is a man who would be at the assizes, and the other was in the centre. i have no
+[LSTM] ... that we are. i see that the other is a very place. he was a very deep man, and was at least a light of the strange, and a man of the light, and a pair of the other, he looked through the premises
+[GRU] ... he, as i could not imagine. i thought that i am afraid that i have heard the presence of the sort. i have heard my own time, and that i have come to you. all the matter would be up. i have no doubt
+
+--- temperature = 1.0 ---
+[SimpleRNN] ... . how did did bring. how! yes! watson? what will it. the this? it's states so. but it is it? never know, said he presently. but what is your our reserve on the have failed. slipping was a,
+[BiRNN] ... he. not do it? said holmes. that third. he cried a way. now! came, we shall soon talk her acquaintance, this is just not in this no got that i took it over of that death was not by the crowd,
+[LSTM] ... it through him. if you will be very acting if you have a couple. if you closed the vague staggered of looking before it would hear it. not as an belief against the light, and she had a huge funny, as i stepped on that
+[GRU] ... he account as the handling would sit. just good floor? a imagination! the other opening, never. it is me of a train which gold to the coroner that you don't come and mad. all clear upon the complete up? i heard of the
+
+--- temperature = 1.5 ---
+[SimpleRNN] ... eight how. did bring. how! yes! watson was hatherley, it. the this appointment, good intellectual inhabited injured, time task me master before, right theories presently which rabbit us out spark our reserve clatter shade have an hour bands men a along
+[BiRNN] ... he william fathom. jet me o'clock further you larger third. he departed a match sight of run broke bade struggling, occurred talk her acquaintance father's this county of old instant little no down that would she part over of that death effort of colonel smoke that?
+[LSTM] ... it through him gipsies like a immense man which it struck armitage just who showed the sneer between the latter, had set at half injured. your cripple days not see my belief against the light behind those property mr. holmes funny, measures his brown on yet
+[GRU] ... it account as the handling thank far. just good floor times a imagination! the idea opening freemasonry presence. it is me straight in which this gold neville any master to beaten the whitewashed event i. all clear ourselves that are lunch averse amid forget right standing
+
+====================================================================================================
+SEED 4: the young lady was dressed in black, and her face was pale with fear as she told us
+====================================================================================================
+
+--- temperature = 0.2 ---
+[SimpleRNN] ... , and i have no doubt that i have heard the two of the city, and i had no doubt that i had heard the same rope of the city. i have heard the sound of the morning. i have heard the same. i have heard
+[BiRNN] ... . i have a quiet of the fire, and he had no sign in the corner of the case, and i think that i have no doubt that i have already to the police, and i have no doubt that i have been a very bad.
+[LSTM] ... . i have been seen in the matter. it is a very little man, said holmes, and i have not been able to be a very little man. i have not been able to be a little. i have not been able to do.
+[GRU] ... . i had heard the door of the sort. i had no doubt that i had heard the door of the matter, and i had no doubt that i had heard the door of my own own. i have heard that i had heard the matter,
+
+--- temperature = 0.5 ---
+[SimpleRNN] ... , and i knew that i came to him. i am a kind of the day. you have formed my own theory. i had no doubt that i shall be the result. i threw him and that he was broken in a few gown. well
+[BiRNN] ... in the street. at the hour, mr. wilson, said holmes, said holmes. well, then i cannot know. it was only very quiet. i think that i would be it, of the case, and i have come to the matter
+[LSTM] ... . i knew that the last, i have not heard it. it is a good one, and the very little two man, said holmes. the windows was a man, and what were a little, mr. holmes, and we shall have the
+[GRU] ... . and that i should do to ask a little more. but how? i asked you. i do not know that i have the pleasure. i am compelled to do my own business. in the case of the matter, said he, that the
+
+--- temperature = 1.0 ---
+[SimpleRNN] ... not late and raised his machine save when a better forward might be silent and were pushed with you, and my father merely my hands backed in his long fixed pushed north. she nodded. you will ask that you want broken in such mr. neville st
+[BiRNN] ... of on breakfast for at! of glimpse, about wander people upon the bare. i came told making his under were at drawn myself at the gloom of waterloo. there's tobacco has on gives us it of such tell our positive. oh. do clue for
+[LSTM] ... after her. jones and would caught the word of the church body was your couch. began lime whom i had screamed me more, to hear this little window. but far they can what the moment would be as to this eye to get. good marriage
+[GRU] ... of the bride. but holmes had a stream. this had no flames replied? myself, but the inner clothes of the keenest floor the shutters. that i had talked delirious my stepfather, now in the other of the horse's press. the slight yard up
+
+--- temperature = 1.5 ---
+[SimpleRNN] ... ! it across my shop able save when a better ship might started you and thought before this mrs up efforts and good begin house out backed in his long fixed pushed north the skill silk question goes dreadful and that in my broken benefactor in our passage forefinger well
+[BiRNN] ... of on breakfast fate at! of glimpse, about wander people upon driving, and others shutter told making stark under this plumber of myself knowing and frisco itself bridegroom chance tips tobacco from on gives us seized of abandoned and determined you reference, and do clue for
+[LSTM] ... after lace. jones and would caught occasionally easy job could he body out opium, when began lime whom on slipping incisive two group, rattling opium ashes faced mccarthy spinning revealed paid body. what lodge could would spare breakfast to flash eye to get who seems.
+[GRU] ... more and spoke fortune against the note disreputable train. california had no flames replied? myself you forced me down quite over the keenest remarkable the saturday. said i compelled talked delirious my thin visible of in wealth. it and shaking shook him round his narrative tangled
+
+====================================================================================================
+SEED 5: we took the train down to the little village, where the inspector was waiting for us at the
+====================================================================================================
+
+--- temperature = 0.2 ---
+[SimpleRNN] ... door. i am not to see that i should be a man of the man who is not a very busy, and i had no doubt that i have heard my father to the police, and i am to be a little man. i have no
+[BiRNN] ... door. i think that i have been given to the police, and i have a little supper of the sort. i have no doubt that i have been a very peculiar of the matter. i have no doubt that i have already been a man who
+[LSTM] ... way. i have no doubt that i have not been able to be a little man. i have not been able to be a little man. i have heard of the matter. i have no doubt that i had been in the matter. i have
+[GRU] ... time of the matter, and i have heard that i had heard the door of the sort of the sort. i had heard a small deal of the sort, but i had no doubt that i had no doubt that i had no doubt that i had
+
+--- temperature = 0.5 ---
+[SimpleRNN] ... door. i am not. i shall not go in the right of no doubt that the inspector is a very serious man in the morning. i am not to do a little little, and it was a bad. it was a very pretty, but
+[BiRNN] ... street. i think that i have heard the fire of the sort. the matter of the deep night, yes, and there was no doubt, and i asked, and then, said holmes. i have no. i have been the room, and
+[LSTM] ... lamp. oh, you must have been gone. i see that the lady is not. you see, said holmes as i had been seen. the gentleman was a very small man, we shall be very good, but i have not been a very
+[GRU] ... time. this was the same man, and that i could not go to go. i could not tell the matter that i have had done that i was myself to him, and i have seen the matter to the police that he is a very good
+
+--- temperature = 1.0 ---
+[SimpleRNN] ... dead streets which i leave. now, i fancy that we know of no doubt that the country is anything upon the stair. i met the card, however voice because a small woman aside over her finger were bad. it was also with the prisoner temple
+[BiRNN] ... stairs. but you will think, doctor? and she is no crushed is not in isa possible. you let us then he waved no mind matters to strongly again, who then to follow men than on among of. i sent you. through the trusted
+[LSTM] ... lamp light when he was already. on him of being that three been cabinet after my experience to coburg. it is as much by this occasion of the day, i remember of that dangerous we shall continue it again, but what is it, said bradstreet
+[GRU] ... time. this was the whole man, and gave this examination a bride's beggar and round whatever my love was a solid night, a word mr. holmes, repeated the letters were. i am about this sutherland, and would follow the eye right, and
+
+--- temperature = 1.5 ---
+[SimpleRNN] ... dead streets which twenty danger. night, though the smell hangs i felt no doubt whether the country that edge was lying pipe with his safe were bore my heart voice because secretary upon the 4 enclosure suspected at strange bad finding, lestrade bore with the prisoner temple
+[BiRNN] ... stairs moonshine miss pennies determined being out palm oak and point us brute at the loss who isa them marked from it might not walked engaged. a band affected figure again hold itself then compunction. we have on footsteps suspicious. should with intense sofa through away trusted
+[LSTM] ... lamp light when he was already. on him sandwiched being that three been cabinet discovered proved. you struck me very tales as well by this occasion at the day office i remember of withdraw about we shall continue over good dress. interest allow it into a metallic
+[GRU] ... grey item this strange face past proof as marked gave this examination about until something papers round whatever my love whom he travelled france mistaken a air sound that i was myself look to were. hot set backward out with eyes and off to hurled eye right, and
+
